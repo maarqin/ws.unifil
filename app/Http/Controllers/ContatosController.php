@@ -12,13 +12,14 @@ namespace App\Http\Controllers;
 use App\Contato;
 use Illuminate\Http\Request;
 
-class ContatosController extends Controller
-{
+class ContatosController extends Controller {
 
-    public function all() {
-        $contatos = Contato::all();
+    public function all(Request $request) {
+        $contatos = Contato::where('user_id', $request->user_id)->get();
 
-        return $contatos->toJson();
+        $result = array('success' => true, 'contatos' => $contatos->toArray());
+
+        return json_encode($result);
     }
 
     public function store(Request $request) {
@@ -26,7 +27,9 @@ class ContatosController extends Controller
 
         $contato->fill($request->all());
 
-        $contato->save();
+        $result = $contato->save();
+
+        return json_encode(array('success' => $result));
     }
 
 }

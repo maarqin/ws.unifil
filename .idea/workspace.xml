@@ -2,91 +2,91 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc50b1ff-ac60-4d8c-8e4c-69a4cd3108b9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyApplication/.idea/runConfigurations.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyApplication/MyApplication.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyApplication/app/app.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../adlondrina/database/seeds/UserTableSeeder.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../adlondrina/public/css/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../adlondrina/resources/lang/pt/auth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../platform/.idea/blade.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/lib/src/main/java/com/example/MyClass.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/lib/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/.idea/libraries/design_23_1_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../adlondrina/resources/lang/pt/pagination.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sitecake/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyApplication/MyApplication.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../adlondrina/resources/lang/pt/reminders.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sleeping/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../pingpong/.idea/blade.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/.idea/libraries/support_v4_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/httpproject/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/.idea/libraries/appcompat_v7_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../bootstrap-cms/.idea/blade.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../adlondrina/resources/lang/pt/auth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../test/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sistema/public/css/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/.idea/libraries/okio_1_6_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/lib/lib.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/.idea/libraries/support_annotations_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/.idea/libraries/recyclerview_v7_23_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sleeping/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../adlondrina/resources/lang/pt/validation.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../adlondrina/resources/views/auth/password.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../adlondrina/resources/views/auth/reset.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../adlondrina/resources/views/emails/password.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sleeping/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../pyrocms/.idea/php.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../paulacleaning/portfolio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../paulacleaning/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/httpproject/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/.idea/libraries/okhttp_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/httpproject/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../administrator/.idea/blade.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../paulacleaning/aboutus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sleeping/.idea/sleeping.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyApplication/.idea/runConfigurations.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/httpproject/src/androidTest/java/com/thomaz/httpproject/ApplicationTest.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../adlondrina/resources/views/home.blade.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../adlondrina/resources/views/layout.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../administrator/.idea/blade.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../bootstrap-cms/.idea/blade.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/.idea/libraries/appcompat_v7_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/.idea/libraries/design_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/.idea/libraries/okhttp_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/.idea/libraries/okio_1_6_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/.idea/libraries/recyclerview_v7_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/.idea/libraries/support_annotations_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/.idea/libraries/support_v4_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/httpproject/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/httpproject/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/httpproject/httpproject-httpproject.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/httpproject/proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/httpproject/src/androidTest/java/com/thomaz/httpproject/ApplicationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/httpproject/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/httpproject/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/lib/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/lib/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/lib/lib.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/lib/src/main/java/com/example/MyClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../paulacleaning/aboutus.html" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../paulacleaning/area.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../paulacleaning/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../paulacleaning/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../paulacleaning/portfolio.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../pingpong/.idea/blade.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../platform/.idea/blade.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../pyrocms/.idea/php.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../sistema/app/Http/Controllers/Menu.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../sistema/public/css/login.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../sitecake/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../adlondrina/resources/views/emails/password.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/httpproject/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../adlondrina/resources/views/auth/password.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/httpproject/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyApplication/app/app.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../adlondrina/database/seeds/UserTableSeeder.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/httpproject/httpproject-httpproject.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../httpproject/lib/build.gradle" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../sleeping/.idea/blade.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../sleeping/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../sleeping/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../sleeping/.idea/sleeping.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../sleeping/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../paulacleaning/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../adlondrina/resources/views/auth/reset.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sistema/app/Http/Controllers/Menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../adlondrina/public/css/app.css" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../sleeping/resources/views/admin/newmodel.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../test/README" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/.idea/adlondrina.iml" afterPath="$PROJECT_DIR$/../adlondrina/.idea/adlondrina.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/resources/views/admin/structures/admin.blade.php" afterPath="$PROJECT_DIR$/../adlondrina/resources/views/admin/structures/admin.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/.idea/blade.xml" afterPath="$PROJECT_DIR$/../adlondrina/.idea/blade.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/public/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/../adlondrina/public/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../paulacleaning/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/../paulacleaning/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sistema/public/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/../sistema/public/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/public/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/../adlondrina/public/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../paulacleaning/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/../paulacleaning/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/resources/views/admin/dashboard.blade.php" afterPath="$PROJECT_DIR$/../adlondrina/resources/views/admin/dashboard.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sistema/resources/views/admin/pages/dashboard.blade.php" afterPath="$PROJECT_DIR$/../sistema/resources/views/admin/pages/dashboard.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/public/css/dashboard.css" afterPath="$PROJECT_DIR$/../adlondrina/public/css/dashboard.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sistema/public/css/dashboard.css" afterPath="$PROJECT_DIR$/../sistema/public/css/dashboard.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sgc/resources/views/admin/pages/banner/formulario.blade.php" afterPath="$PROJECT_DIR$/../sgc/resources/views/admin/pages/banner/formulario.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sistema/resources/views/admin/frame.blade.php" afterPath="$PROJECT_DIR$/../sistema/resources/views/admin/frame.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sistema/resources/views/admin/fragments/header.blade.php" afterPath="$PROJECT_DIR$/../sistema/resources/views/admin/fragments/header.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/public/js/ie-emulation-modes-warning.js" afterPath="$PROJECT_DIR$/../adlondrina/public/js/ie-emulation-modes-warning.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/public/js/ie10-viewport-bug-workaround.js" afterPath="$PROJECT_DIR$/../adlondrina/public/js/ie10-viewport-bug-workaround.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/public/js/ie8-responsive-file-warning.js" afterPath="$PROJECT_DIR$/../adlondrina/public/js/ie8-responsive-file-warning.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../paulacleaning/js/jquery.min.js" afterPath="$PROJECT_DIR$/../paulacleaning/js/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/resources/views/auth/login.blade.php" afterPath="$PROJECT_DIR$/../adlondrina/resources/views/auth/login.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sistema/resources/views/auth/login.blade.php" afterPath="$PROJECT_DIR$/../sistema/resources/views/auth/login.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/resources/views/admin/structures/menu.blade.php" afterPath="$PROJECT_DIR$/../adlondrina/resources/views/admin/structures/menu.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/.idea/misc.xml" afterPath="$PROJECT_DIR$/../adlondrina/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/.idea/modules.xml" afterPath="$PROJECT_DIR$/../adlondrina/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../paulacleaning/css/owl.carousel.css" afterPath="$PROJECT_DIR$/../paulacleaning/css/owl.carousel.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../paulacleaning/css/owl.theme.css" afterPath="$PROJECT_DIR$/../paulacleaning/css/owl.theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/resources/views/auth/register.blade.php" afterPath="$PROJECT_DIR$/../adlondrina/resources/views/auth/register.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sistema/resources/views/admin/fragments/sidebar.blade.php" afterPath="$PROJECT_DIR$/../sistema/resources/views/admin/fragments/sidebar.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/public/css/singin.css" afterPath="$PROJECT_DIR$/../adlondrina/public/css/singin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/.idea/blade.xml" afterPath="$PROJECT_DIR$/../adlondrina/.idea/blade.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sistema/resources/views/admin/fragments/header.blade.php" afterPath="$PROJECT_DIR$/../sistema/resources/views/admin/fragments/header.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/.idea/misc.xml" afterPath="$PROJECT_DIR$/../adlondrina/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sistema/resources/views/admin/pages/dashboard.blade.php" afterPath="$PROJECT_DIR$/../sistema/resources/views/admin/pages/dashboard.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../paulacleaning/css/styles.css" afterPath="$PROJECT_DIR$/../paulacleaning/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/resources/views/admin/structures/topo.blade.php" afterPath="$PROJECT_DIR$/../adlondrina/resources/views/admin/structures/topo.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sistema/resources/views/auth/login.blade.php" afterPath="$PROJECT_DIR$/../sistema/resources/views/auth/login.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/.idea/modules.xml" afterPath="$PROJECT_DIR$/../adlondrina/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/public/js/ie-emulation-modes-warning.js" afterPath="$PROJECT_DIR$/../adlondrina/public/js/ie-emulation-modes-warning.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../adlondrina/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sgc/resources/views/admin/pages/banner/formulario.blade.php" afterPath="$PROJECT_DIR$/../sgc/resources/views/admin/pages/banner/formulario.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/resources/views/admin/structures/admin.blade.php" afterPath="$PROJECT_DIR$/../adlondrina/resources/views/admin/structures/admin.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/public/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/../adlondrina/public/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/resources/views/admin/dashboard.blade.php" afterPath="$PROJECT_DIR$/../adlondrina/resources/views/admin/dashboard.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../paulacleaning/js/jquery.min.js" afterPath="$PROJECT_DIR$/../paulacleaning/js/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/resources/views/admin/structures/menu.blade.php" afterPath="$PROJECT_DIR$/../adlondrina/resources/views/admin/structures/menu.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../paulacleaning/css/owl.theme.css" afterPath="$PROJECT_DIR$/../paulacleaning/css/owl.theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../paulacleaning/css/owl.carousel.css" afterPath="$PROJECT_DIR$/../paulacleaning/css/owl.carousel.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../paulacleaning/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/../paulacleaning/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/public/js/ie8-responsive-file-warning.js" afterPath="$PROJECT_DIR$/../adlondrina/public/js/ie8-responsive-file-warning.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/resources/views/auth/login.blade.php" afterPath="$PROJECT_DIR$/../adlondrina/resources/views/auth/login.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/public/js/ie10-viewport-bug-workaround.js" afterPath="$PROJECT_DIR$/../adlondrina/public/js/ie10-viewport-bug-workaround.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/resources/views/admin/structures/topo.blade.php" afterPath="$PROJECT_DIR$/../adlondrina/resources/views/admin/structures/topo.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/public/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/../adlondrina/public/css/bootstrap.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/public/css/singin.css" afterPath="$PROJECT_DIR$/../adlondrina/public/css/singin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sistema/public/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/../sistema/public/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/public/css/dashboard.css" afterPath="$PROJECT_DIR$/../adlondrina/public/css/dashboard.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/.idea/adlondrina.iml" afterPath="$PROJECT_DIR$/../adlondrina/.idea/adlondrina.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sistema/public/css/dashboard.css" afterPath="$PROJECT_DIR$/../sistema/public/css/dashboard.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../adlondrina/resources/views/auth/register.blade.php" afterPath="$PROJECT_DIR$/../adlondrina/resources/views/auth/register.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sistema/resources/views/admin/frame.blade.php" afterPath="$PROJECT_DIR$/../sistema/resources/views/admin/frame.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../paulacleaning/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/../paulacleaning/js/bootstrap.min.js" />
     </list>
     <ignored path="ws.unifil.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -111,8 +111,8 @@
       <file leaf-file-name="ContatosController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ContatosController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="3.5">
-              <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.23684211">
+              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
               <folding>
                 <element signature="e#122#138#0#PHP" expanded="true" />
               </folding>
@@ -124,8 +124,20 @@
         <entry file="file://$PROJECT_DIR$/app/Contato.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-8.75">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.625">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+              <folding>
+                <element signature="e#7#388#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -143,9 +155,9 @@
         <option value="$PROJECT_DIR$/app/User.php" />
         <option value="$PROJECT_DIR$/bootstrap/app.php" />
         <option value="$PROJECT_DIR$/app/Contatos.php" />
+        <option value="$PROJECT_DIR$/app/Contato.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/ContatosController.php" />
-        <option value="$PROJECT_DIR$/app/Contato.php" />
       </list>
     </option>
   </component>
@@ -258,6 +270,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/thomaz/Documents/www/ws.unifil/app/Http/Controllers/ContatosController.php&#10;routes&#9;FILE&#9;file:///Users/thomaz/Documents/www/ws.unifil/app/Http/routes.php" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -278,6 +291,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
   </component>
@@ -292,25 +311,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="740" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1280" height="740" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18659128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.7717042" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7717042" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -323,6 +342,34 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ContatosController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#122#138#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Contato.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding>
+            <element signature="e#7#388#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/laravel/lumen-framework/src/Application.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7157895">
@@ -343,7 +390,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22727273">
           <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -351,7 +397,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.81578946">
           <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -359,7 +404,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15789473">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -399,40 +443,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34210527">
           <caret line="13" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/illuminate/database/Eloquent/Model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.5">
-          <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.26842105">
+          <caret line="632" column="20" selection-start-line="632" selection-start-column="20" selection-end-line="632" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+    <entry file="file://$PROJECT_DIR$/vendor/illuminate/contracts/Support/Arrayable.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47368422">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-          <folding>
-            <element signature="e#7#388#0#PHP" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.10526316">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/illuminate/support/Collection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42631578">
+          <caret line="1021" column="43" selection-start-line="1021" selection-start-column="43" selection-end-line="1021" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Contato.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.75">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.625">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="e#7#388#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ContatosController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.5">
-          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.23684211">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
           <folding>
             <element signature="e#122#138#0#PHP" expanded="true" />
           </folding>

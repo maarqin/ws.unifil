@@ -15,6 +15,6 @@ $app->get('/', function () use ($app) {
     return $app->version();
 });
 
-$app->get('/contatos', 'ContatosController@all');
-$app->post('/contatos/save', 'ContatosController@store');
+$app->get('/unifil.ws/all', 'ContatosController@all');
+$app->post('/unifil.ws/store', 'ContatosController@store');
 

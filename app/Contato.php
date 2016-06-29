@@ -17,5 +17,5 @@ class Contato extends Model
     public $timestamps = false;
 
     protected $fillable = ['name', 'phone', 'gender',
-        'email', 'state', 'city'];
+        'email', 'state', 'city', 'user_id'];
 }
